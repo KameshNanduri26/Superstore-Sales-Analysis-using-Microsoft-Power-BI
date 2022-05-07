@@ -1,5 +1,8 @@
 # Superstore-Sales-Analysis-using-Microsoft-Power-BI
 
+# Introduction
+A Microsoft Power BI project that analyses the data of Superstore Sales Data from 2011 to 2014 using visualizations such as bar charts, doughnut charts, cards, slicers, line and area charts, etc.
+
 # Data
 The data we have is Superstore sales data across the world from 2011 to 2014. It has 3 tables named **‘Orders’**, **‘People’**, and **‘Returns’**.
 We will focus on the **‘Orders’** table which consists of around 51 thousand rows and 21 columns. 
